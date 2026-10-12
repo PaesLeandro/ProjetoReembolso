@@ -21,7 +21,6 @@ O projeto está em desenvolvimento. A sessão e os dados são simulados no front
 - `web/src/assets/`: ícones e imagens usados pelo frontend.
 - `web/src/index.css`: configuração do Tailwind e estilos globais.
 - `web/src/utils/`: categorias e funções auxiliares.
-- `img/`: imagens da versão inicial do projeto.
 
 ## Como executar
 
